@@ -1,4 +1,4 @@
-# Hi there, I'm watchtoweralerts007-eng 👋
+# Hi there, I'm hotak-it 👋
 
 IT professional focused on **Windows system administration, automation, and infrastructure tooling**.
 
@@ -21,7 +21,7 @@ IT professional focused on **Windows system administration, automation, and infr
 
 ## 📌 Featured Project
 
-### [tech-portfolio](https://github.com/watchtoweralerts007-eng/tech-portfolio)
+### [tech-portfolio](https://github.com/hotak-it/tech-portfolio)
 
 A curated collection of IT automation and administration projects:
 
@@ -33,9 +33,9 @@ A curated collection of IT automation and administration projects:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchtoweralerts007-eng&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watchtoweralerts007-eng&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hotak-it&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotak-it&layout=compact)
 
 ---
 
-⭐ From [watchtoweralerts007-eng](https://github.com/watchtoweralerts007-eng)
+⭐ From [hotak-it](https://github.com/hotak-it)
