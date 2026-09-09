@@ -34,7 +34,6 @@ A curated collection of IT automation and administration projects:
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hotak-it&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hotak-it&layout=compact)
 
 ---
 
