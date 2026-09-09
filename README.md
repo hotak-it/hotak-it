@@ -1,40 +1,53 @@
-# Hi there, I'm hotak-it 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:2dd4bf&height=200&section=header&text=Mustafa%20Hotak&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=IT%20Professional%20%E2%80%A2%20System%20Administration%20%E2%80%A2%20Automation&descSize=16&descAlignY=72" alt="header"/>
 
-IT professional focused on **Windows system administration, automation, and infrastructure tooling**.
+<div align="center">
+  <a href="https://github.com/hotak-it">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Windows+System+Administration;Infrastructure+Automation+%E2%80%94+Ansible+%26+Docker;PowerShell+Tooling+%26+Security+Hardening;Network+Diagnostics+%26+VPN+Management" alt="Typing SVG"/>
+  </a>
+</div>
 
-- 🔧 Building PowerShell tooling for system repair, diagnostics & security hardening
+## 🧭 About Me
+
+- 🔧 **IT professional** focused on Windows system administration, automation & infrastructure tooling
+- 🛠️ Built a **20+ script system management suite** — monitoring, hardening, cleanup & live dashboards
 - ⚙️ Automating server deployments with **Ansible** and **Docker**
-- 🌐 Networking: VPN configuration, network scanning & diagnostics
-- 🌍 Also build web apps — check out my multilingual bookstore project
+- 🌐 Networking: **VPN configuration**, network scanning & diagnostics
+- 📐 Clean-code discipline: portable paths, modern CIM cmdlets, unified logging framework
+- 🌍 Side projects: multilingual **web apps** (German/Turkish bookstore)
 
-## 🧰 Tech Stack
+## 🧰 Toolbox
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Systems & Automation**
 
-## 📌 Featured Project
+<img src="https://skillicons.dev/icons?i=powershell,ansible,docker,bash,linux,python&perline=12" alt="systems tools"/>
 
-### [tech-portfolio](https://github.com/hotak-it/tech-portfolio)
+**Web & Tools**
 
-A curated collection of IT automation and administration projects:
+<img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&perline=12" alt="web tools"/>
 
-- **System Management Suite** — 20+ PowerShell scripts orchestrated by `RunAll.ps1` with performance monitoring, security hardening, and an HTML dashboard
-- **System Repair Toolkit** — diagnostics & repair: hardware checks, event log health, BITS repair, update history
-- **Unified Logging Module** — consistent, portable logging across all scripts
-- **Ansible Playbooks** — nginx deployment & server maintenance
-- **KitaStorys** — a responsive multilingual (DE/TR) bookstore website
+## 📌 Featured Work — tech-portfolio
 
-## 📈 GitHub Stats
+> A curated collection of production-grade IT automation & administration projects
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hotak-it&show_icons=true&theme=default)
+| Module | Highlights | Stack |
+|--------|-----------|-------|
+| **System Management Suite** | 20+ orchestrated scripts — performance monitoring, security hardening, multi-mode cleanup, HTML dashboard | PowerShell |
+| **System Repair Toolkit** | Hardware diagnostics, event-log health, BITS repair, update history | PowerShell |
+| **Logging Framework** | Unified, portable logging module shared across all scripts | PowerShell |
+| **Server Automation** | nginx deployment & server maintenance playbooks | Ansible |
+| **KitaStorys** | Multilingual (DE/TR) bookstore web app with live filtering | HTML · CSS · JS |
 
----
+## 📊 GitHub Analytics
 
-⭐ From [hotak-it](https://github.com/hotak-it)
+<div align="center">
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=hotak-it&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  &nbsp;&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=hotak-it&locale=en&hide_border=true&background=0D1117&ring=14B8A6&fire=FF6B35&currStreakLabel=14B8A6" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=hotak-it&color=14b8a6&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:14b8a6,100:0f766e&height=120&section=footer" alt="footer"/>
